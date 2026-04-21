@@ -53,7 +53,6 @@ backend/
 ### Step 2 — Install Python dependencies
 
 ```bash
-cd backend
 pip install -r requirements.txt
 ```
 
@@ -68,7 +67,6 @@ npm install
 
 **Terminal 1 — Flask Backend:**
 ```bash
-cd backend
 python app.py
 # Runs on http://localhost:5000
 ```
