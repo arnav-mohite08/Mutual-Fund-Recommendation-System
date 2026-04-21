@@ -2,6 +2,7 @@ A full-stack web application that recommends personalised mutual fund portfolios
 
 ## Project Structure
 
+```
 fundwise/
 ├── backend/
 │   ├── app.py              ← Flask API server
@@ -31,6 +32,7 @@ fundwise/
 │
 ├── start.sh
 └── README.md
+```
 
 ---
 
